@@ -28,7 +28,7 @@ public class LoginPageTest extends BaseClass{
 	@Test
 	public void loginTest() {
 		indxpg = new IndexPage();
-		sandy.error("Clicked Successfully");
+		sandy.error("GIT Code Changed a bit and trying to check in this line");
 		lognpg =indxpg.ClickOnSignIn();
 		sandy.error("UserId and Password entered");
 		hompg = lognpg.Login(prop.getProperty("username"), prop.getProperty("password"));

@@ -1,1 +1,2 @@
-This file is added from GIT main branch.
+This file is added from GIT master branch.
+This is new comment added to the file.
